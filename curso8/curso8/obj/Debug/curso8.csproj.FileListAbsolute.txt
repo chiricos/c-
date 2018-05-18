@@ -1,0 +1,6 @@
+E:\proyectos\drawde\visual\curso\curso8\curso8\bin\Debug\curso8.exe.config
+E:\proyectos\drawde\visual\curso\curso8\curso8\bin\Debug\curso8.exe
+E:\proyectos\drawde\visual\curso\curso8\curso8\bin\Debug\curso8.pdb
+E:\proyectos\drawde\visual\curso\curso8\curso8\obj\Debug\curso8.exe
+E:\proyectos\drawde\visual\curso\curso8\curso8\obj\Debug\curso8.pdb
+E:\proyectos\drawde\visual\curso\curso8\curso8\obj\Debug\curso8.csprojResolveAssemblyReference.cache
