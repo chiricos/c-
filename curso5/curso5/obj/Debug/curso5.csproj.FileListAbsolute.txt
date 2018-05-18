@@ -1,0 +1,5 @@
+E:\proyectos\drawde\visual\curso\curso5\curso5\bin\Debug\curso5.exe.config
+E:\proyectos\drawde\visual\curso\curso5\curso5\bin\Debug\curso5.exe
+E:\proyectos\drawde\visual\curso\curso5\curso5\bin\Debug\curso5.pdb
+E:\proyectos\drawde\visual\curso\curso5\curso5\obj\Debug\curso5.exe
+E:\proyectos\drawde\visual\curso\curso5\curso5\obj\Debug\curso5.pdb
